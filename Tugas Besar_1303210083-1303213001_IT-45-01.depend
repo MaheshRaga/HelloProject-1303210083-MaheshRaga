@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\zaghi\documents\mahasiswa\semester 3\praktikum strukdat\tugas besar_1303210083-1303213001_it-45-01\main.cpp
+	<iostream>
+
+1673016462 source:c:\users\zaghi\onedrive - telkom university\documents\mahasiswa\semester 3\praktikum strukdat\tugas besar_1303210083-1303213001_it-45-01\main.cpp
+	"oplib.h"
+
+1673016444 c:\users\zaghi\onedrive - telkom university\documents\mahasiswa\semester 3\praktikum strukdat\tugas besar_1303210083-1303213001_it-45-01\oplib.h
+	<iostream>
+	<stdio.h>
+
+1673018987 source:c:\users\zaghi\onedrive - telkom university\documents\mahasiswa\semester 3\praktikum strukdat\tugas besar_1303210083-1303213001_it-45-01\oplib.cpp
+	"oplib.h"
+
